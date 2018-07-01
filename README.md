@@ -15,3 +15,5 @@ object is created. The render method gets called automatically every time the st
 inside of the component and anytime the value of the component's props changes.
 
 This exercise will help you practice what you've learned in the course so far, including the trickiest part of React - managing state.
+
+![alt text](https://github.com/KalebNiven/react-managing-state/blob/master/screenshot.JPG)
